@@ -3,4 +3,4 @@
 Trusted build: [abiskop/node-imagemagick](https://index.docker.io/u/abiskop/node-imagemagick/).
 
 **Dependencies**:
-- [mirkokiefer/node](https://github.com/mirkokiefer/dockerfile-node)
+- [abiskop/node-v0.12.x](https://github.com/abiskop/dockerfile-node-v0.12.x)
